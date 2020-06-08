@@ -1,4 +1,4 @@
-# hiring_assignment_2
+# Hiring_assignment_2
 
 ## Quickstart
 
@@ -31,6 +31,11 @@ hiring_assignment_2
 └── __init__                                    # __init__ file
    
 ```
+## Test cases
+   ```bash
+   $ pytest
+   ```
+
 ## API Documentation 
 
 ### `resource_optimizer` 
