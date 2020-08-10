@@ -1,4 +1,4 @@
-# Hiring_assignment_2
+# Resource-Optimizer
 
 ## Quickstart
 
@@ -7,7 +7,7 @@ To work in a sandboxed Python environment it is recommended to install the app i
 1. Install dependencies
 
     ```bash
-    $ cd /path/to/hiring_assignment_2
+    $ cd /path/to/Resource-Optimizer
     $ pip install -r requirements.txt
     ```
 2. Run server
@@ -22,7 +22,7 @@ To work in a sandboxed Python environment it is recommended to install the app i
 
 ### Backend 
 ```shell
-hiring_assignment_2
+Resource-Optimizer
 ├── app                                         # contains application files
 │   ├── resource_optimizer──────┐               # contains resource files for API
 │   └── runserver               │               # serves API and manages the requests
